@@ -1,0 +1,11 @@
+note over browser:
+The form submit event handler function 
+is executed from spa.js when the submit button is clicked
+end note
+
+browser->server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+
+note over browser:
+The list of notes is rerendered
+from the POST event handler function 
+in spa.js
