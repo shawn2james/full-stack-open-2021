@@ -11,4 +11,4 @@ This repository contains my assignments for the <a href="https://www.fullstackop
 * <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics">CSS Basics</a>
 * <a href="https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form">Your first form</a>
 * <a href="https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_structure_a_web_form">How to structure a web form</a>
-
+* <a href="https://www.websequencediagrams.com/">WebSequenceDiagrams</a>
