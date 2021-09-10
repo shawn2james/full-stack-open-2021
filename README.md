@@ -12,3 +12,7 @@ This repository contains my assignments for the <a href="https://www.fullstackop
 * <a href="https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form">Your first form</a>
 * <a href="https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_structure_a_web_form">How to structure a web form</a>
 * <a href="https://www.websequencediagrams.com/">WebSequenceDiagrams</a>
+* <a href="https://reactjs.org/docs/components-and-props.html">React Components and Props</a>
+* <a href="https://reactjs.org/docs/introducing-jsx.html">Introducing JSX</a>
+* <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Mozilla's Javascript Guide</a>
+* <a href="https://github.com/getify/You-Dont-Know-JS">You Don't Know JS Free Book Series</a>
