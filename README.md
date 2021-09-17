@@ -18,3 +18,6 @@ This repository contains my assignments for the <a href="https://www.fullstackop
 * <a href="https://github.com/getify/You-Dont-Know-JS">You Don't Know JS Free Book Series</a>
 * <a href="https://reactjs.org/docs/hooks-state.html">Using the State Hook</a>
 * <a href="https://egghead.io/courses/the-beginner-s-guide-to-reactjs">The Beginner's Guide to React | egghead.io</a>
+* <a href="https://www.youtube.com/watch?v=8aGhZQkoFbQ">What the heck is the event loop anyway?</a>
+* <a href="https://www.youtube.com/watch?v=cCOL7MC4Pl0">Jake Archibald: In the Loop</a>
+* <a href="https://reactjs.org/docs/hooks-effect.html">Using the Effect Hook</a>
